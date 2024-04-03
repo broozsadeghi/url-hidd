@@ -1,21 +1,6 @@
 warp://162.159.192.173:946/?ifp=1-5#warp-ir&&detour=warp://162.159.192.173:500/?ifp=1-5#warp-main
 warp://188.114.98.206:945/?ifp=1-5#warp-ir&&detour=warp://188.114.99.245:1070/?ifp=1-5#warp-main
 warp://188.114.96.37:928/?ifp=1-5#warp-ir&&detour=warp://188.114.96.58:891/?ifp=1-5#warp-main
-
-warp://162.159.192.13:4233?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://162.159.192.13:4233?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-warp://162.159.192.104:4233?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://162.159.192.104:4233?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-warp://162.159.192.105:4233?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://162.159.192.105:4233?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-warp://188.114.96.225:7281?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://188.114.96.225:7281?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-warp://162.159.192.15:942?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://162.159.192.15:942?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-warp://162.159.192.222:942?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://162.159.192.222:942?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-warp://188.114.99.213:942?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://188.114.99.213:942?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-warp://188.114.97.56:1074?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://188.114.97.56:1074?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-warp://188.114.96.31:2506?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://188.114.96.31:2506?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-warp://162.159.192.107:928?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://162.159.192.107:928?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-warp://188.114.97.66:2506?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://188.114.97.66:2506?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-warp://162.159.192.35:8742?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://162.159.192.35:8742?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-warp://162.159.195.93:2506?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://162.159.195.93:2506?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
-
 warp://162.159.195.49:1180?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://162.159.195.49:1180?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
 warp://162.159.195.54:7103?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://162.159.195.54:7103?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
 warp://162.159.192.78:1074?ifp=10-20&ifps=20-60&ifpd=5-10#Warp &&detour=warp://162.159.192.78:1074?ifp=10-20&ifps=20-60&ifpd=5-10#WarpInWarp🇩🇪
